@@ -9,6 +9,13 @@ Feel free to reach out to me:
 - 💼 LinkedIn: [OdI Pearl](https://www.linkedin.com/in/odipearl/)
 - 🌐 Portfolio: [pearlportfolio.netlify.app](https://pearlportfolio.netlify.app/)
 
+##Skills
+![HTML Badge](https://img.shields.io/badge/HTML-orange)
+![CSS Badge](https://img.shields.io/badge/CSS-blue)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow)
+![React Badge](https://img.shields.io/badge/React-blue)
+![Vue Badge](https://img.shields.io/badge/Vue-green)
+
 ##  📓 Fun Fact
 Fun fact: I love to read novels (Fantasy 100%).
 
