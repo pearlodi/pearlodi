@@ -8,6 +8,13 @@ Feel free to reach out to me:
 - 📧 Email: [pearlodi7@gmail.com](mailto:pearlodi7@gmail.com)
 - 💼 LinkedIn: [OdI Pearl](https://www.linkedin.com/in/odipearl/)
 - 🌐 Portfolio: [pearlportfolio.netlify.app](https://pearlportfolio.netlify.app/)
+  
+## 🌟 Skills
+![HTML Badge](htmls.png)
+![CSS Badge](csss.png)
+![JavaScript Badge](java-script.png)
+![React Badge](rredux.png)
+![Vue Badge](vues.png)
 
 ##  📓 Fun Fact
 Fun fact: I love to read novels (Fantasy 100%).
