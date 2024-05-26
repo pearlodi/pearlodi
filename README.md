@@ -10,7 +10,7 @@ Feel free to reach out to me:
 - 🌐 Portfolio: [pearlportfolio.netlify.app](https://pearlportfolio.netlify.app/)
   
 ## 🌟 Skills
-![HTML Badge](boot.png)
+![HTML Badge](boots.png)
 
 ##  📓 Fun Fact
 Fun fact: I love to read novels (Fantasy 100%).
