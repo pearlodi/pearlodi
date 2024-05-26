@@ -11,11 +11,11 @@ Feel free to reach out to me:
   
 ## 🌟 Skills
 <div style="display: flex; gap: 20px; justify-content: space-around;">
-  <img src="htmls.png" alt="HTML Badge" width="50"/>
-  <img src="csss.png" alt="CSS Badge" width="50"/>
-  <img src="java-script.png" alt="JavaScript Badge" width="50"/>
-  <img src="rredux.png" alt="React Badge" width="50"/>
-  <img src="vues.png" alt="Vue Badge" width="50"/>
+  <img src="htmls.png" alt="HTML Badge" width="40"/>
+  <img src="csss.png" alt="CSS Badge" width="40"/>
+  <img src="java-script.png" alt="JavaScript Badge" width="40"/>
+  <img src="rredux.png" alt="React Badge" width="40"/>
+  <img src="vues.png" alt="Vue Badge" width="40"/>
 </div>
 
 ##  📓 Fun Fact
