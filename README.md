@@ -10,12 +10,12 @@ Feel free to reach out to me:
 - 🌐 Portfolio: [pearlportfolio.netlify.app](https://pearlportfolio.netlify.app/)
   
 ## 🌟 Skills
-<div style="display: flex; justify-content: space-around; gap:10px;">
-  <img src="htmls.png" alt="HTML Badge" width="30"/>
-  <img src="csss.png" alt="CSS Badge" width="30"/>
-  <img src="java-script.png" alt="JavaScript Badge" width="30"/>
-  <img src="rredux.png" alt="React Badge" width="30"/>
-  <img src="vues.png" alt="Vue Badge" width="30"/>
+<div style="display: flex; gap: 20px; justify-content: space-around;">
+  <img src="htmls.png" alt="HTML Badge" width="100"/>
+  <img src="csss.png" alt="CSS Badge" width="100"/>
+  <img src="java-script.png" alt="JavaScript Badge" width="100"/>
+  <img src="rredux.png" alt="React Badge" width="100"/>
+  <img src="vues.png" alt="Vue Badge" width="100"/>
 </div>
 
 ##  📓 Fun Fact
