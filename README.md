@@ -17,6 +17,7 @@ Feel free to reach out to me:
    <img src="types.png" alt="HTML Badge" width="40"/>
    <img src="vvue.png" alt="HTML Badge" width="40"/> 
    <img src="reaact.png" alt="HTML Badge" width="40"/>
+      <img src="nuxt.png" alt="HTML Badge" width="40"/>
 
 </span>
 
