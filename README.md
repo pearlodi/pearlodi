@@ -10,7 +10,7 @@ Feel free to reach out to me:
 - 🌐 Portfolio: [pearlportfolio.netlify.app](https://pearlportfolio.netlify.app/)
   
 ## 🌟 Skills
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; gap:10px;">
   <img src="htmls.png" alt="HTML Badge" width="30"/>
   <img src="csss.png" alt="CSS Badge" width="30"/>
   <img src="java-script.png" alt="JavaScript Badge" width="30"/>
