@@ -9,7 +9,7 @@ Feel free to reach out to me:
 - LinkedIn: https://www.linkedin.com/in/odipearl/
 - Portfolio: https://pearlportfolio.netlify.app/
 
-## 🎵 Fun Fact
+##  📓 Fun Fact
 Fun fact: I love to read novels (Fantasy 100%).
 
 ## 🎯 Goals
