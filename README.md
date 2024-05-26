@@ -3,13 +3,6 @@
    Welcome to my space. I'm Odi Pearl. A frontend developer who loves creating things on the web.
    I have a strong foundation in HTML, CSS, JavaScript, React, Vue, Nuxt and Next and I build responsive, user-friendly applications that scale.
 
-## 💻 Skills
-- HTML
-- CSS
-- JavaScript
-- React
--  Vue
-
 ## 📬 Contact
 Feel free to reach out to me:
 - Email: pearlodi7@gmail.com
