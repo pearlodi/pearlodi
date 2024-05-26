@@ -14,7 +14,7 @@ Feel free to reach out to me:
   <img src="html5.png" alt="HTML Badge" width="40"/>
    <img src="css3d.png" alt="HTML Badge" width="40"/>
     <img src="types.png" alt="HTML Badge" width="40"/>
-      <img src="jss" alt="HTML Badge" width="40"/>
+      <img src="jss.png" alt="HTML Badge" width="40"/>
 
 </span>
 
