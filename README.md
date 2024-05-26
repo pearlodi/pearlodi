@@ -4,11 +4,7 @@
    I have a strong foundation in HTML, CSS, JavaScript, React, Vue, Nuxt and Next and I build responsive, user-friendly applications that scale.
 
 ## 💻 Skills
-- HTML
-- CSS
-- JavaScript
-- React
-- Vue
+- HTML - CSS - JavaScript - React - Vue
 
 ## 🚀 Experience
 I have over two years of experience as a frontend developer.
