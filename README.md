@@ -19,8 +19,8 @@ Feel free to reach out to me:
    <img src="next.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
       <img src="nuxt3d.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
          <img src="pinia.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-            <img src="redux.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-               <img src="elemet-plus.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+            <img src="rredux.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+               <img src="element-plus.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
                   <img src="figma.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
                    <img src="bootstrap.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
                     <img src="tailwind.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
