@@ -17,9 +17,9 @@ Feel free to reach out to me:
     <img  width="12"/>
    <img src="react.svg" alt="React Badge" width="45"/>
     <img  width="12"/>
-    <img src="vue.png" alt="Vue Badge" width="45"/>
+   <img src="rredux.png" alt="React Badge" width="45"/>
     <img  width="12"/>
-  <img src="rredux.png" alt="React Badge" width="45"/>
+    <img src="vue.png" alt="Vue Badge" width="45"/>
     <img  width="12"/>
   <img src="next.svg" alt="Next.js Badge" width="45"/>
     <img  width="12"/>
