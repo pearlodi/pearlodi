@@ -11,10 +11,10 @@ Feel free to reach out to me:
   
 ## 🌟 Skills
 <div style="display: flex;  gap: 20px; justify-content: space-around;">
-  <img src="rredux.png" alt="React Badge" width="45"/>
   <img src="js.svg" alt="JavaScript Badge" width="45"/>
-  <img src="react.svg" alt="React Badge" width="45"/>
-  <img src="vue.png" alt="Vue Badge" width="45"/>
+   <img src="react.svg" alt="React Badge" width="45"/>
+    <img src="vue.png" alt="Vue Badge" width="45"/>
+  <img src="rredux.png" alt="React Badge" width="45"/>
   <img src="next.svg" alt="Next.js Badge" width="45"/>
   <img src="nuxt3d.png" alt="Nuxt.js Badge" width="50"/>
   <img src="pinia.png" alt="Pinia Badge" width="45"/>
