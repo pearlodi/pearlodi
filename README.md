@@ -10,14 +10,14 @@ Feel free to reach out to me:
 - 🌐 Portfolio: [pearlportfolio.netlify.app](https://pearlportfolio.netlify.app/)
   
 ## 🌟 Skills
-<span style="display: flex; align-items: center ">
+<span style="display: flex; align-items: center; gap: 20px; ">
   <img src="html.svg" alt="HTML Badge" width="45"/>
   <img src="js.svg" alt="HTML Badge" width="45" style="margin-left: 50px; "/>
    <img src="ts.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
    <img src="react.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
    <img src="vue.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/> 
    <img src="next.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-      <img src="nuxt3d.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+      <img src="nuxt3d.png" alt="HTML Badge" width="50"  style="margin-left: 10px; "/>
          <img src="pinia.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
             <img src="rredux.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
                <img src="element-plus.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
