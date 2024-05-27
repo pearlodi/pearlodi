@@ -12,7 +12,7 @@ Feel free to reach out to me:
 ## 🌟 Skills
 <span style="display: flex; align-items: center ">
   <img src="html5.png" alt="HTML Badge" width="45"/>
-  <img src="css3d.png" alt="HTML Badge" width="45" style="margin-left: 10px; "/>
+  <img src="css3d.png" alt="HTML Badge" width="45" style="margin-left: 50px; "/>
    <img src="jss.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
    <img src="types.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
    <img src="vvue.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/> 
