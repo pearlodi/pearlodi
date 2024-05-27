@@ -11,13 +11,19 @@ Feel free to reach out to me:
   
 ## 🌟 Skills
 <span style="display: flex; align-items: center ">
-  <img src="html5.png" alt="HTML Badge" width="45"/>
-  <img src="css3d.png" alt="HTML Badge" width="45" style="margin-left: 50px; "/>
-   <img src="jss.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-   <img src="types.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-   <img src="vvue.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/> 
-   <img src="reaact.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+  <img src="html.svg" alt="HTML Badge" width="45"/>
+  <img src="js.svg" alt="HTML Badge" width="45" style="margin-left: 50px; "/>
+   <img src="ts.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+   <img src="react.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+   <img src="vue.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/> 
+   <img src="next" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
       <img src="nuxt3d.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+         <img src="pinia.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+            <img src="redux.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+               <img src="elemet-plus.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+                  <img src="figma.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+                   <img src="bootstrap.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+                    <img src="tailwind" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
 
 </span>
 
