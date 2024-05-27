@@ -12,7 +12,6 @@ Feel free to reach out to me:
 ## 🌟 Skills
 <div style="display: flex;  gap: 20px; justify-content: space-around;">
   <img src="rredux.png" alt="React Badge" width="45"/>
-  <img src="vues.png" alt="Vue Badge" width="45"/>
   <img src="js.svg" alt="JavaScript Badge" width="45"/>
   <img src="react.svg" alt="React Badge" width="45"/>
   <img src="vue.png" alt="Vue Badge" width="45"/>
