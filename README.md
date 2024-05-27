@@ -17,13 +17,11 @@ Feel free to reach out to me:
   <img src="rredux.png" alt="React Badge" width="45"/>
   <img src="vues.png" alt="Vue Badge" width="45"/>
   <img src="js.svg" alt="JavaScript Badge" width="45"/>
-  <img src="ts.png" alt="TypeScript Badge" width="45"/>
   <img src="react.svg" alt="React Badge" width="45"/>
   <img src="vue.png" alt="Vue Badge" width="45"/>
   <img src="next.svg" alt="Next.js Badge" width="45"/>
   <img src="nuxt3d.png" alt="Nuxt.js Badge" width="50"/>
   <img src="pinia.png" alt="Pinia Badge" width="45"/>
-  <img src="rredux.png" alt="Redux Badge" width="45"/>
   <img src="element-plus.png" alt="Element Plus Badge" width="45"/>
   <img src="figma.svg" alt="Figma Badge" width="45"/>
   <img src="bootstrap.svg" alt="Bootstrap Badge" width="45"/>
