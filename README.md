@@ -12,18 +12,26 @@ Feel free to reach out to me:
 ## 🌟 Skills
 <span style="display: flex; align-items: center; gap: 20px; ">
   <img src="html.svg" alt="HTML Badge" width="45"/>
-  <img src="js.svg" alt="HTML Badge" width="45" style="margin-left: 50px; "/>
-   <img src="ts.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-   <img src="react.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-   <img src="vue.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/> 
-   <img src="next.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-      <img src="nuxt3d.png" alt="HTML Badge" width="50"  style="margin-left: 10px; "/>
-         <img src="pinia.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-            <img src="rredux.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-               <img src="element-plus.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-                  <img src="figma.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-                   <img src="bootstrap.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
-                    <img src="tailwind.svg" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around;">
+  <img src="htmls.png" alt="HTML Badge" width="45"/>
+  <img src="csss.png" alt="CSS Badge" width="45"/>
+  <img src="java-script.png" alt="JavaScript Badge" width="45"/>
+  <img src="rredux.png" alt="React Badge" width="45"/>
+  <img src="vues.png" alt="Vue Badge" width="45"/>
+  <img src="js.svg" alt="JavaScript Badge" width="45"/>
+  <img src="ts.png" alt="TypeScript Badge" width="45"/>
+  <img src="react.svg" alt="React Badge" width="45"/>
+  <img src="vue.png" alt="Vue Badge" width="45"/>
+  <img src="next.svg" alt="Next.js Badge" width="45"/>
+  <img src="nuxt3d.png" alt="Nuxt.js Badge" width="50"/>
+  <img src="pinia.png" alt="Pinia Badge" width="45"/>
+  <img src="rredux.png" alt="Redux Badge" width="45"/>
+  <img src="element-plus.png" alt="Element Plus Badge" width="45"/>
+  <img src="figma.svg" alt="Figma Badge" width="45"/>
+  <img src="bootstrap.svg" alt="Bootstrap Badge" width="45"/>
+  <img src="tailwind.svg" alt="Tailwind CSS Badge" width="45"/>
+</div>
+
 
 </span>
 
