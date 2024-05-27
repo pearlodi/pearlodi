@@ -12,12 +12,12 @@ Feel free to reach out to me:
 ## 🌟 Skills
 <span style="display: flex; ">
   <img src="html5.png" alt="HTML Badge" width="45"/>
-  <img src="css3d.png" alt="HTML Badge" width="45" style="margin-left: 5px; "/>
-   <img src="jss.png" alt="HTML Badge" width="45"  style="margin-left: 5px; "/>
-   <img src="types.png" alt="HTML Badge" width="45"  style="margin-left: 5px; "/>
-   <img src="vvue.png" alt="HTML Badge" width="45"  style="margin-left: 5px; "/> 
-   <img src="reaact.png" alt="HTML Badge" width="45"  style="margin-left: 5px; "/>
-      <img src="nuxts.png" alt="HTML Badge" width="45"  style="margin-left: 5px; "/>
+  <img src="css3d.png" alt="HTML Badge" width="45" style="margin-left: 10px; "/>
+   <img src="jss.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+   <img src="types.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+   <img src="vvue.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/> 
+   <img src="reaact.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
+      <img src="nuxt3d.png" alt="HTML Badge" width="45"  style="margin-left: 10px; "/>
 
 </span>
 
