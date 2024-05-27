@@ -12,6 +12,7 @@ Feel free to reach out to me:
 ## 🌟 Skills
 <div style="display: flex;  gap: 20px; justify-content: space-around;">
   <img src="js.svg" alt="JavaScript Badge" width="45"/>
+    <img  width="12"/>
      <img src="tailwind.svg" alt="Tailwind CSS Badge" width="45"/>
    <img src="react.svg" alt="React Badge" width="45"/>
     <img src="vue.png" alt="Vue Badge" width="45"/>
