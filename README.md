@@ -23,9 +23,6 @@ Feel free to reach out to me:
     <img  width="12"/>
    <img src="rredux.png" alt="React Badge" width="45"/>
     <img  width="12"/>
-  
-  <img src="nuxt3d.png" alt="Nuxt.js Badge" width="50"/>
-    <img  width="12"/>
   <img src="pinia.png" alt="Pinia Badge" width="45"/>
     <img  width="12"/>
   <img src="element-plus.png" alt="Element Plus Badge" width="45"/>
